@@ -1,2 +1,3 @@
 # git_test2
-"Hello Odin!"
+This is the README.md file for the git_test2 repository.
+The file is above - but this description is shown upon entry into this repo.
